@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        pink 0%,
+        pink 40%,
+        paleturquoise 40%,
+        paleturquoise 100%
+    ); 
+    justify-content: center;
+    align-items: center;
+}
+
+.KB{
+    margin-left: 4%;
+    margin-top: 3%;
+    margin-top: 10%;
+    width: 65%;
+}
+
+svg{
+    margin-top: -2%;
+}
+
+.ft{
+    height:100px;
+    background-color: black;
+}
+
+.container{
+    margin-left: 4%;
+    margin-top: 3%;
+    margin-top: 10%;
+    width: 65%;
+}
